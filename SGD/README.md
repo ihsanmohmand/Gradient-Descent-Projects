@@ -1,6 +1,6 @@
 # Stochastic Gradient Descent for Bike Sharing Demand Prediction
 
-This project explores **Stochastic Gradient Descent (SGD)** for predicting bike rental demand using the Bike Sharing Dataset.
+This project explores **Stochastic Gradient Descent (SGD)** for predicting bike rental demand using the Bike Sharing Dataset
 
 ## Objective
 
